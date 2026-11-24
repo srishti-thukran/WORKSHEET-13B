@@ -62,8 +62,6 @@ python v0.3/combined_project.py
 
 The combined project saves the generated image as `combined_output.png`.
 
-(Add screenshots of your actual program outputs here.)
-
 ## 6. Limitations
 
 - The project currently supports basic text-to-ASCII conversion.
